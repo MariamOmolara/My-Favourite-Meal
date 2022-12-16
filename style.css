@@ -1,0 +1,36 @@
+.heading{
+    color: red;
+    padding: 10px;
+}
+.MainContainer{
+    border: 2px solid red;
+    margin: auto;
+    width: 50%;
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 20px;
+    align-content: center;
+}
+.MainImage{
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px;
+    align: center
+}
+.ImageContainer{
+    background-color: sandybrown;
+    width: 500px;
+    height: 400px;
+    margin: 50px;
+    border: 20px sandybrown;
+    border-radius: 10px;
+    align-content: center;
+    
+
+}
+.image{
+    height: 300px;
+    width: 400px;
+    padding: 50px;
+    border-radius: 30px
+}
